@@ -22,9 +22,9 @@ no_index:
 provides:
   Algorithm::BinPack::2D:
     file: lib/Algorithm/BinPack/2D.pm
-    version: 0.01
+    version: 0.02
 requires:
   perl: 5.008005
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
